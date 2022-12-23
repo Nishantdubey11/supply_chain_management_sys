@@ -3,7 +3,6 @@ package com.example.supply_chain_management_sys;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.fxml.FXMLLoader;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -16,7 +15,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HelloApplication extends Application {
+public class Supply_chain_management extends Application {
 
     public static final int width = 700, height = 600, headerBar = 50;
 
@@ -37,7 +36,7 @@ public class HelloApplication extends Application {
         return gridPane;
     }
 
-    private GridPane Loginpage()    {
+    private GridPane Loginpage(){
         Label emailLabel = new Label("Email");
         Label passwordLabel = new Label("Password");
         Label messageLabel = new Label("I am Message");
