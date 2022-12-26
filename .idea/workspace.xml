@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01718f2e-93ed-459d-8df8-8a9a8ad5e4d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-8.0.31.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Supply_chain_management.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Supply_chain_management.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Supply_chain_management.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +55,37 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nisha\IdeaProjects\supply_chain_management_sys\lib" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.supply_chain_management">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.supply_chain_management_sys.Login" />
+      <module name="supply_chain_management_sys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.supply_chain_management_sys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="supply_chain_management" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.supply_chain_management_sys.Supply_chain_management" />
+      <module name="supply_chain_management_sys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.supply_chain_management" />
+      <item itemvalue="Application.Login" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

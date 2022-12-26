@@ -92,7 +92,7 @@ public class Supply_chain_management extends Application {
     public void start(Stage stage) throws IOException {
       //  FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
         Scene scene = new Scene(createContent());
-        stage.setTitle("Hello!");
+        stage.setTitle("Supply Chain");
         stage.setScene(scene);
         stage.show();
     }
