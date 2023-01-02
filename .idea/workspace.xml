@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01718f2e-93ed-459d-8df8-8a9a8ad5e4d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/ProductDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Supply_chain_management.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/supply_chain_management_sys/Supply_chain_management.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,7 @@
       <recent name="C:\Users\nisha\IdeaProjects\supply_chain_management_sys\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Login">
+  <component name="RunManager" selected="Application.supply_chain_management">
     <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.supply_chain_management_sys.Login" />
       <module name="supply_chain_management_sys" />

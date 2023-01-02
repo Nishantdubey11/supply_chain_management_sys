@@ -21,6 +21,7 @@ public class Supply_chain_management extends Application {
 
     Pane bodyPane = new Pane();
     Login login = new Login();
+    ProductDetails productDetails= new ProductDetails();
     private GridPane headerBar(){
         TextField searchText = new TextField();
         Button searchButton = new Button("Search");
@@ -86,7 +87,7 @@ public class Supply_chain_management extends Application {
         bodyPane.setMinSize(width, height);
         bodyPane.setTranslateY(headerBar);
 
-        bodyPane.getChildren().addAll(Loginpage());
+        bodyPane.getChildren().addAll(productDetails.getAllProducts());
 
         root.getChildren().addAll(headerBar(), bodyPane);
 
